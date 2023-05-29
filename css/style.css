@@ -1,0 +1,32 @@
+.navbar-brand img{
+    width: 50px;
+}
+.navbar-nav .nav-item a{
+    font-size: 18px;
+    margin-right: 10px;
+}
+.navbar-nav .nav-item a:hover{
+    background-color: #0A58CA;
+    color: #fff;
+}
+.navbar-nav .nav-item .active{
+    background-color: #0A58CA;
+    color: #fff;
+}
+.news img{
+    height: 250px;
+}
+.news .news-content h5{
+    font-size: 1rem !important;
+}
+
+
+/* .layer{
+    background-color: rgba(0,0,0,0.8);
+    top: 100%;
+    left: 0;
+    transition: all 0.5s ease-in-out;
+}
+.news-img:hover .layer{
+    top:0
+} */
